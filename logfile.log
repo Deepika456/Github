@@ -1,0 +1,46 @@
+2019-08-22 22:33:22,834 INFO  [Log] Application Opened 
+2019-08-22 22:33:25,835 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:33:25,863 INFO  [Log] Title Matched 
+2019-08-22 22:33:28,939 INFO  [Log] Login Completed 
+2019-08-22 22:33:28,956 INFO  [Log] Title Matched 
+2019-08-22 22:33:29,042 INFO  [Log] Welcom Text Matched 
+2019-08-22 22:33:29,570 INFO  [Log] Logout Completed 
+2019-08-22 22:33:30,602 INFO  [Log] Application Closed 
+2019-08-22 22:35:58,343 INFO  [Log] Application Opened 
+2019-08-22 22:36:01,345 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:36:01,362 INFO  [Log] Title Matched 
+2019-08-22 22:36:04,478 INFO  [Log] Login Completed 
+2019-08-22 22:36:04,494 INFO  [Log] Title Matched 
+2019-08-22 22:36:04,595 INFO  [Log] Welcome Text Matched 
+2019-08-22 22:36:10,952 INFO  [Log] Mouse Over Completed 
+2019-08-22 22:36:15,678 INFO  [Log] New Employee Added 
+2019-08-22 22:36:20,552 INFO  [Log] Logout Completed 
+2019-08-22 22:36:21,542 INFO  [Log] Application Closed 
+2019-08-22 22:37:50,159 INFO  [Log] Application Opened 
+2019-08-22 22:37:53,161 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:37:53,176 INFO  [Log] Title Matched 
+2019-08-22 22:37:55,396 INFO  [Log] Login Completed 
+2019-08-22 22:38:00,806 INFO  [Log] Mouse Over Completed 
+2019-08-22 22:43:05,228 INFO  [Log] Application Opened 
+2019-08-22 22:43:08,229 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:43:08,246 INFO  [Log] Title Matched 
+2019-08-22 22:43:11,715 INFO  [Log] Login Completed 
+2019-08-22 22:43:11,737 INFO  [Log] Title Matched 
+2019-08-22 22:43:11,844 INFO  [Log] Welcome Text Matched 
+2019-08-22 22:43:12,532 INFO  [Log] Logout Completed 
+2019-08-22 22:43:13,425 INFO  [Log] Application Closed 
+2019-08-22 22:43:18,230 INFO  [Log] Application Opened 
+2019-08-22 22:43:21,230 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:43:21,247 INFO  [Log] Title Matched 
+2019-08-22 22:43:24,131 INFO  [Log] Login Completed 
+2019-08-22 22:43:24,147 INFO  [Log] Title Matched 
+2019-08-22 22:43:24,242 INFO  [Log] Welcome Text Matched 
+2019-08-22 22:43:29,884 INFO  [Log] Mouse Over Completed 
+2019-08-22 22:43:34,812 INFO  [Log] New Employee Added 
+2019-08-22 22:43:39,529 INFO  [Log] Logout Completed 
+2019-08-22 22:43:40,620 INFO  [Log] Application Closed 
+2019-08-22 22:43:46,899 INFO  [Log] Application Opened 
+2019-08-22 22:43:49,899 INFO  [Log] Waitstmt Completed 
+2019-08-22 22:43:49,918 INFO  [Log] Title Matched 
+2019-08-22 22:43:52,830 INFO  [Log] Login Completed 
+2019-08-22 22:43:58,759 INFO  [Log] Mouse Over Completed 
